@@ -3,7 +3,8 @@ module.exports = {
   reactStrictMode: true,
   images: {
     domains: [
-      'avatars.githubusercontent.com'
+      'avatars.githubusercontent.com',
+      'cdn.sanity.io'
     ]
   },
   experimental: {
